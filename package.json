@@ -1,0 +1,35 @@
+{
+  "name": "zod-to-markdown",
+  "version": "1.0.0",
+  "description": "A utility function to convert Zod schemas to Markdown documentation",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build"
+  },
+  "keywords": [
+    "zod",
+    "markdown",
+    "documentation",
+    "schema",
+    "typescript"
+  ],
+  "author": "Your Name <your@email.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/O6lvl4/zod-to-markdown.git"
+  },
+  "bugs": {
+    "url": "https://github.com/O6lvl4/zod-to-markdown/issues"
+  },
+  "homepage": "https://github.com/O6lvl4/zod-to-markdown#readme",
+  "dependencies": {
+    "zod": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.0",
+    "typescript": "^4.0.0"
+  }
+}

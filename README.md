@@ -68,7 +68,7 @@ const markdown = zodSchemaToMarkdown(mySchema, 2);
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on the [GitHub repository](https://github.com/yourusername/zod-to-markdown).
+Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on the [GitHub repository](https://github.com/O6lvl4/zod-to-markdown).
 
 ## License
 
